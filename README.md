@@ -121,6 +121,10 @@ Shiza: Script proofreading and editing. Miscellaneous graphics. Technical help.
 **Reverse engineering, tooling, insertion and automatic testing** — done with
 Claude Opus 5.
 
+## Website
+
+https://materiashrine.neocities.org/
+
 *Pocket Puyo Puyo Sun* is © Compile / © Sega Enterprises, Ltd. This is an
 unofficial fan translation, not affiliated with or endorsed by either.
 The patch contains only the differences from the original ROM; it is
