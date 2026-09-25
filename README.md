@@ -74,8 +74,8 @@ whether to play it from the number of times you lost during that run:
 - **Normal** — plays it only if you lost **at least 20 times**.
 
 The normal mode version of this boss was not previously documented anywhere we could find.
-We also found some (rather uninteresting) unused content. We'll be adding it to our website
-(see below)
+We also found some (rather uninteresting) unused content. Perhaps we'll do so in the
+future.
 
 ## Intentional untranslated content
 
@@ -109,24 +109,14 @@ These are Japanese on purpose, not oversights:
   translated. If you worked at COMPILE in the 90s and went by the name
   of Nyonyo or Tatsuki Kei, we apologize.
 
-## Compatibility
-
-| | |
-|---|---|
-| Game Boy Color | 
-| Game Boy (DMG) | 
-| Super Game Boy | Unique Two-Player mode verified.|
-| Cart type | Unchanged (MBC5 + RAM + battery); saves work as before |
-| ROM size | Unchanged at 1 MB — the patch uses free space in the existing banks |
-
-Existing save files remain compatible: no save-RAM layout was changed.
 
 ## Credits
 
 **Translation** — Materia Shrine:
 
 Kariya: Translation, manual graphics editing (title screen, ending screens, fonts, etc.), and playtesting.
-Shiza: Script proofreading and editing. Miscellaneous graphics. Additional playtesting. 
+
+Shiza: Script proofreading and editing. Miscellaneous graphics. Technical help.
 
 **Reverse engineering, tooling, insertion and automatic testing** — done with
 Claude Opus 5.
